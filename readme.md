@@ -1,6 +1,6 @@
 ### Federico Isola
 
-![](fotoPresentacion.jpg =200x200)
+![](fotoPresentacion.jpg)
 
 #### Número de legajo: 11122
 
