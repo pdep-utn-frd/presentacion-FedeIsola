@@ -1,6 +1,10 @@
 ### Federico Isola
 
+----------------------------------------------------------------------------------------------------------------
+
 ![](fotoPresentacion.jpg)
+
+----------------------------------------------------------------------------------------------------------------
 
 #### Número de legajo: 11122
 
@@ -11,3 +15,5 @@ Buenas, soy Federico Isola, soy de y vivo en Zárate. Hice 2 años (sin contar e
 Tengo algo de experiencia en lo que es la programación y realmente me gusta bastante, así que sin dudas espero con ansias qué tengamos para ver en Paradigmas de Programación.
 
 Sin mucho mas que decir, espero que dadas las condiciones, pueda ser un año que nos sirva a todos, y espero verlos mas temprano que tarde, nuevamente en clases, ¡cuidensé!
+
+----------------------------------------------------------------------------------------------------------------
